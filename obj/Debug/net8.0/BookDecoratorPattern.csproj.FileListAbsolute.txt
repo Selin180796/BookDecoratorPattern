@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\obj\Debug\net8.0\BookDecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\obj\Debug\net8.0\BookDecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\obj\Debug\net8.0\BookDecoratorPattern.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\obj\Debug\net8.0\BookDecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\bin\Debug\net8.0\BookDecoratorPattern.exe
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\bin\Debug\net8.0\BookDecoratorPattern.deps.json
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\bin\Debug\net8.0\BookDecoratorPattern.runtimeconfig.json
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\bin\Debug\net8.0\BookDecoratorPattern.dll
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\bin\Debug\net8.0\BookDecoratorPattern.pdb
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\obj\Debug\net8.0\BookDecoratorPattern.dll
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\obj\Debug\net8.0\refint\BookDecoratorPattern.dll
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\obj\Debug\net8.0\BookDecoratorPattern.pdb
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\obj\Debug\net8.0\BookDecoratorPattern.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\BookDecoratorPattern\BookDecoratorPattern\obj\Debug\net8.0\ref\BookDecoratorPattern.dll
